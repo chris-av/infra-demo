@@ -1,0 +1,5 @@
+server: chefsvr
+env: dev
+whitelist:
+  - 109.0.0.1
+  - 109.0.0.5
